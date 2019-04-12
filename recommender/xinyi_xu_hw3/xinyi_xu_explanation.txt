@@ -1,0 +1,3 @@
+In case3, the duration is 145.06s, the MSE is 1.124
+In case4, the duration is 82.35s, the MSE is 1.124
+In case4, I only calculate the weight between active item between items which have similarity larger than 0.5 with active item. Because similar item can help to make the recommender more accurate by ignoring the influence from dissimilar item and save the time in calculating the weight.
